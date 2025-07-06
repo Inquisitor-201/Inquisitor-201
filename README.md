@@ -41,7 +41,12 @@
       <div style="margin-top: 20px;">
         <p>I'm a coder specializing in computer systems and AI infrastructure.</p>
         <ul style="padding-left: 20px;">
-          <li>🔭 I’m currently working on Operating systems / System Virtualization / High performance computing.</li>
+          <li>🔭 I’m currently working on:
+            <ul>
+              <li>Operating systems</li>
+              <li>System Virtualization</li>
+              <li>High performance computing</li>
+            </ul>
           <li>🌱 I’m currently learning LLM Reasoning frameworks (like vLLM)</li>
           <li>📫 Reach me via <a href="mailto:lkchen01@foxmail.com" style="color: #0366d6;">lkchen01@foxmail.com</a></li>
         </ul>
