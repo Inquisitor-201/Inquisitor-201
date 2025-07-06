@@ -43,9 +43,9 @@
         <ul style="padding-left: 20px;">
           <li>🔭 I’m currently working on:
             <ul>
-              <li>Operating systems</li>
-              <li>System Virtualization</li>
-              <li>High performance computing</li>
+              <li>🖥️ Operating systems</li>
+              <li>🐳 System Virtualization</li>
+              <li>🔥 High performance computing</li>
             </ul>
           <li>🌱 I’m currently learning LLM Reasoning frameworks (like vLLM)</li>
           <li>📫 Reach me via <a href="mailto:lkchen01@foxmail.com" style="color: #0366d6;">lkchen01@foxmail.com</a></li>
