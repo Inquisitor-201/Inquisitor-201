@@ -6,7 +6,7 @@
       <!-- 圆形头像（参考截图风格） -->
       <div style="text-align: center;">
         <img 
-          src="https://github.com/Inquisitor-201.png" 
+          src="https://media.tenor.com/3JZ_eEYo-dAAAAAj/chiikawa-usagi.gif"
           alt="Avatar" 
           style="border-radius: 50%; width: 180px; margin-bottom: 10px;"
         >
