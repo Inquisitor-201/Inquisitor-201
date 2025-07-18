@@ -47,7 +47,7 @@
               <li>🐳 System Virtualization</li>
               <li>🔥 High performance computing</li>
             </ul>
-          <li>🌱 I’m currently learning LLM Reasoning frameworks (like vLLM)</li>
+          <li>🌱 I’m currently learning LLM Inference engines (like vLLM/SGLang)</li>
           <li>📫 Reach me via <a href="mailto:lkchen01@foxmail.com" style="color: #0366d6;">lkchen01@foxmail.com</a></li>
         </ul>
       </div>
