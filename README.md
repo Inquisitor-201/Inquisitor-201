@@ -39,7 +39,7 @@
       </div>
       <!-- 个人简介（参考截图风格） -->
       <div style="margin-top: 20px;">
-        <p>I'm a coder specializing in computer systems and AI infrastructure.</p>
+        <p>I am a master's student in Computer Science at Peking University, specializing in computer systems and MLSys.</p>
         <ul style="padding-left: 20px;">
           <li>🔭 I’m currently working on:
             <ul>
