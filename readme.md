@@ -1,6 +1,4 @@
-![Banner](https://media1.tenor.com/m/MtFcQh2LXPMAAAAC/stardew-valley.gif)
-
-<h3 align="center">Hi, I'm Nehckl! 👋<h3 align="center">
+## Hi, I'm Nehckl!
 
 CS master student at Peking University, focusing on GPU computing, virtualization, and system software.
 
@@ -10,4 +8,4 @@ CS master student at Peking University, focusing on GPU computing, virtualizatio
 - RISC-V multi-core OS kernel — national 2nd prize in [OS kernel design contest](https://gitlab.eduxiji.net/dh2zz/oskernel2022)
 - LLM inference engine with Continuous Batching & PagedAttention
 
-CUDA / Triton · Linux Kernel · Rust / C · ARM64 / RISC-V
+**CUDA / Triton · Linux Kernel · Rust / C · ARM64 / RISC-V**
