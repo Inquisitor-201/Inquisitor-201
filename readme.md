@@ -1,6 +1,6 @@
 ![Banner](https://media1.tenor.com/m/MtFcQh2LXPMAAAAC/stardew-valley.gif)
 
-<h1 align="center">Hi, I'm Nehckl!<h1 align="center">
+<h3 align="center">Hi, I'm Nehckl! 👋<h3 align="center">
 
 CS master student at Peking University, focusing on GPU computing, virtualization, and system software.
 
