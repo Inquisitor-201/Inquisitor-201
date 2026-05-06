@@ -9,4 +9,4 @@ CS master student at Peking University, focusing on GPU computing, virtualizatio
 - 🏆 RISC-V multi-core OS kernel — national 2nd prize in [OS kernel design contest](https://gitlab.eduxiji.net/dh2zz/oskernel2022)
 - 🧠 LLM inference engine with Continuous Batching & PagedAttention
 
-**技术栈：** CUDA / Triton · Linux Kernel · Rust / C · ARM64 / RISC-V · vLLM / SGLang
+**Skills: ** CUDA / Triton · Linux Kernel · Rust / C · ARM64 / RISC-V · Pytorch · vLLM / SGLang
