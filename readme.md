@@ -1,4 +1,4 @@
-## Hi, I'm Nehckl!
+## 👋 Hi, I'm Nehckl!
 
 CS master student at Peking University, focusing on GPU computing, virtualization, and system software.
 
